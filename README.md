@@ -19,5 +19,5 @@ Built using **pure CSS3** for styling without any external CSS frameworks.
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/food-menu-filter.git
+   git clone https://github.com/your-username/food-gallery-app.git
 -app.git
