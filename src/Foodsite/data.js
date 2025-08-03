@@ -1,0 +1,18 @@
+export let foods=[
+    {image:"ch2.jpeg",cat:"chinese",name:"Kung Pao chicken",price:"400"},
+    {image:"ff2.jpg",cat:"FastFood",name:"Frankie ",price:"80"},
+    {image:"si2.jpg",cat:"SouthIndian",name:"Hyderabadi biryani",price:"300"},
+    {image:"ch3.jpg",cat:"chinese",name:"Soup dumplings",price:"270"},
+    {image:"ch4.jpeg",cat:"chinese",name:"Mapo tofu",price:"350"},
+    {image:"ff1.jpg",cat:"FastFood",name:"Vada Pav",price:"40"},
+    {image:"ni2.jpg",cat:"NothIndian",name:"Tandoori Chicken",price:"400"},
+    {image:"ff3.jpeg",cat:"FastFood",name:"Mcdonalds Burger",price:"300"},
+    {image:"ni1.jpeg",cat:"NothIndian",name:"North Indian thali",price:"530"},
+    {image:"si4.webp",cat:"SouthIndian",name:"Idli sambar",price:"60"},
+    {image:"sf1.jpeg",cat:"SeaFood",name:"Lobster roll",price:"200"},
+    {image:"ch1.jpeg",cat:"chinese",name:"Chow mein",price:"120"},
+    {image:"si1.jpeg",cat:"SouthIndian",name:"Masala dosa",price:"130"},
+    {image:"sf2.jpg",cat:"SeaFood",name:"Seafood paella",price:"700"},
+    {image:"si3.webp",cat:"SouthIndian",name:"Rasam",price:"100"},
+    {image:"sf3.jpg",cat:"SeaFood",name:"Crab cake",price:"390"},
+]
